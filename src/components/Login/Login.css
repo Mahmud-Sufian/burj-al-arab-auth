@@ -1,0 +1,24 @@
+form{
+    width: 40%;
+    margin: 0px auto;
+    background-color: rgb(98, 98, 214);
+}
+input{
+    width: 99.2%;
+    height: 40px;
+    margin-top: 25px;
+    background-color: rgb(167, 193, 218);
+    color: rgb(202, 100, 88);
+    outline-color: rgb(204, 110, 99);
+    border: none;
+}
+input[type=submit]{
+    background-color: salmon;
+    color: #fff;
+    width: 100%;
+    font-weight: bold;
+}
+label{
+    margin-left: 40%;
+    color: #fff;
+}
